@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+
+  /* SLACK NAME  */
+.text1{
+    text-align: center;
+}
+.n{
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-left: 400px;
+    text-align: center;
+}
+.pic{
+    width: 150px;
+    margin-left: 300px; 
+}
+
+    /* CURRENT DAY OF THE WEEK  */
+.con1{
+    display: flex;
+}
+#text2{
+    font-size: 18px;
+    font-weight: bold;
+}
+#dow{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+    /* CURRENT UTC TIME  */
+
+.con2{
+    display: flex;
+
+}
+#text3{
+    font-size: 18px;
+    font-weight: bold;
+}
+#currentUTCTime{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+    /* TRACK  */
+.text4{
+    display: flex;
+    font-size: 20px;
+}
+#text5{
+    font-size: 18px;
+    font-weight: bold;
+}
+#text6{
+    font-size: 18px;
+    margin-left: 10px;
+}
+    /* GITHUB URL  */
+
+.text7{
+    display: flex;
+}
+#text8{
+    font-size: 17px;
+    font-weight: bold;
+}
+#text9{
+    margin-top: 18px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: blue;
+}
